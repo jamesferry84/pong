@@ -1,0 +1,8 @@
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\bin\x86\Debug\TutorialGame1.exe
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\bin\x86\Debug\TutorialGame1.pdb
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\obj\x86\Debug\TutorialGame1.exe
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\obj\x86\Debug\TutorialGame1.pdb
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\bin\x86\Debug\Content\ball.xnb
+c:\users\james\documents\visual studio 2010\Projects\TutorialGame1\TutorialGame1\TutorialGame1\bin\x86\Debug\Content\paddle1.xnb
